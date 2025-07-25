@@ -68,4 +68,5 @@ Or when using [lazy.nvim](https://github.com/folke/lazy.nvim):
 ## License
 
 This plugin is licensed under the [MIT license](LICENSE).
+
 The Code based on [lazyjj.nvim] (https://github.com/swaits/lazyjj.nvim)
