@@ -7,11 +7,11 @@ A Neovim plugin that provides a floating window interface for
 
 - Neovim >= 0.5.0
 - [plenary.nvim](https://github.com/nvim-lua/plenary.nvim)
-- [lazyjj](https://github.com/Cretezy/lazyjj) installed and available in your PATH.
+- [jjui](https://github.com/idursun/jjui) installed and available in your PATH.
 
 ## Installation
 
-Using [packer.nvim](https://github.com/wbthomason/packer.nvim):
+Using [packer.nvim]():
 
 ```lua
 use {
